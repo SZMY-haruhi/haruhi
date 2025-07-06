@@ -1,0 +1,1 @@
+一个可以在日本IP使用的girigirilove源
