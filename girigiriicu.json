@@ -64,11 +64,9 @@
             }
           },
           "tier": 0
-          }
-         }   
         }
-       },
-{
+      },
+      {
         "factoryId": "web-selector",
         "version": 2,
         "arguments": {
@@ -129,7 +127,7 @@
           "tier": 3
         }
       },
-{
+      {
         "factoryId": "web-selector",
         "version": 2,
         "arguments": {
@@ -194,10 +192,8 @@
           },
           "tier": 3
         }
-      }   
-     }
-    },
-{
+      },
+      {
         "factoryId": "web-selector",
         "version": 2,
         "arguments": {
@@ -263,7 +259,7 @@
           "tier": 1
         }
       },
-{
+      {
         "factoryId": "web-selector",
         "version": 2,
         "arguments": {
@@ -328,8 +324,8 @@
           },
           "tier": 1
         }
-      }, 
-{
+      },
+      {
         "factoryId": "web-selector",
         "version": 2,
         "arguments": {
@@ -397,4 +393,4 @@
       }
     ]
   }
-}                  
+}
