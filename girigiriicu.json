@@ -199,9 +199,9 @@
         "arguments": {
           "name": "酱紫社",
           "description": "",
-          "iconUrl": "https://www.jzsdm1.com/upload/eighteen/20241227-1/991272b4a1029e60a9951c8ea874ff2a.png",
+          "iconUrl": "https://www.jzsdm.com/upload/eighteen/20241227-1/991272b4a1029e60a9951c8ea874ff2a.png",
           "searchConfig": {
-            "searchUrl": "https://www.jzsdm1.com/index.php/vod/search/wd/{keyword}.html",
+            "searchUrl": "https://www.jzsdm.com/index.php/vod/search/wd/{keyword}.html",
             "searchUseOnlyFirstWord": true,
             "searchRemoveSpecial": true,
             "searchUseSubjectNamesCount": 1,
